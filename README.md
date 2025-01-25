@@ -7,7 +7,7 @@
 ### Links
 
 - Live Site URL: []()
-- Figma: [Designed by Odama Studio](https://www.figma.com/file/WJFmySkWyK0ZewopoFUJFo/Findtrend-Webflow-(Free-Code)-(Community)?type=design&node-id=2-620&mode=design&t=xclBfDSDETErabsP-0)
+- Figma: https://www.figma.com/design/NQjc66KP88rfJPWKiiTh1x/Findtrend-Webflow?node-id=0-1&p=f&t=h36m3UFbl8rp2ugr-0
 
 ### Built with
 
