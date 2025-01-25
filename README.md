@@ -2,11 +2,10 @@
 
 ### Screenshot
 
-![](./public/screenshot.png)
+![](./public/demo-find-trend.png)
 
 ### Links
 
-- Live Site URL: []()
 - Figma: https://www.figma.com/design/NQjc66KP88rfJPWKiiTh1x/Findtrend-Webflow?node-id=0-1&p=f&t=h36m3UFbl8rp2ugr-0
 
 ### Built with
